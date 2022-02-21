@@ -1,0 +1,12 @@
+.card-display {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: black solid 1em;
+    margin: .2em;
+    width: 150px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
